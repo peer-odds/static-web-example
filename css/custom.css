@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 1rem;
+    background-image: url(../assets/background.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+}
